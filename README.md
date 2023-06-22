@@ -1,24 +1,45 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名	
+yoyaku_app
 
-Things you may want to cover:
+# アプリケーション概要	
+ユーザーの予約を効率的に管理し、検索することが可能です
 
-* Ruby version
+# URL	
+現在作成中
 
-* System dependencies
+# テスト用アカウント	
+未実装
 
-* Configuration
+# 利用方法	
+このアプリケーションの利用方法を記載。説明が長い場合は、箇条書きでリスト化すること。
 
-* Database creation
+# アプリケーションを作成した背景	
+ユーザーが予約した時間をカレンダーを見ればすぐにわかるようになればと思い作成しました
 
-* Database initialization
+# 洗い出した要件	要件定義をまとめたスプレッドシートのリンクを記載。
+https://docs.google.com/spreadsheets/d/1qeIZ9gKHpjqMCzcHX27d6MURhaseR705ZVWCt1kjEDw/edit?usp=sharing
 
-* How to run the test suite
+# 実装予定の機能	
+今後は下記内容を実装予定です
+・カレンダー機能 Googleやアウトルックへの連携
+・リマインド機能 予約前日にはユーザーに通知がいく仕組み
 
-* Services (job queues, cache servers, search engines, etc.)
+# データベース設計	ER図を添付。
+https://gyazo.com/0b91c820f8ec12e6f1a602fcf2ac06fb
 
-* Deployment instructions
+# 画面遷移図	画面遷移図を添付。
 
-* ...
+# 開発環境	
+Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code
+
+# ローカルでの動作方法
+
+
+# 工夫したポイント
+制作背景
+現在人材会社で勤務しており、求職者との面談設定をメールで行っている。
+メールのやり取りの間に時間被ったり、このやり取りの間に求職者も面談実施から離れてしまう可能性を考慮。
+日程が被らないようにかつ、求職者ともスムーズに面談日程が組めるようなアプリがあればと思い制作。
+現職で活かせるアプリの開発ができればと思い取り組んでおります。
