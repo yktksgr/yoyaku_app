@@ -22,9 +22,9 @@ yoyaku_app
 https://docs.google.com/spreadsheets/d/1qeIZ9gKHpjqMCzcHX27d6MURhaseR705ZVWCt1kjEDw/edit?usp=sharing
 
 # 実装予定の機能	
- 今後は下記内容を実装予定です
- ・カレンダー機能 Googleやアウトルックへの連携
- ・リマインド機能 予約前日にはユーザーに通知がいく仕組み
+今後は下記内容を実装予定です  
+・カレンダー機能 Googleやアウトルックへの連携  
+・リマインド機能 予約前日にはユーザーに通知がいく仕組み
 
 # データベース設計	
 [![Image from Gyazo](https://i.gyazo.com/0b91c820f8ec12e6f1a602fcf2ac06fb.png)](https://gyazo.com/0b91c820f8ec12e6f1a602fcf2ac06fb)
