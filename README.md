@@ -18,7 +18,7 @@ yoyaku_app
 # アプリケーションを作成した背景	
 ユーザーが予約した時間をカレンダーを見ればすぐにわかるようになればと思い作成しました
 
-# 洗い出した要件	要件定義をまとめたスプレッドシートのリンクを記載。
+# 洗い出した要件	
 https://docs.google.com/spreadsheets/d/1qeIZ9gKHpjqMCzcHX27d6MURhaseR705ZVWCt1kjEDw/edit?usp=sharing
 
 # 実装予定の機能	
@@ -26,16 +26,15 @@ https://docs.google.com/spreadsheets/d/1qeIZ9gKHpjqMCzcHX27d6MURhaseR705ZVWCt1kj
 ・カレンダー機能 Googleやアウトルックへの連携
 ・リマインド機能 予約前日にはユーザーに通知がいく仕組み
 
-# データベース設計	ER図を添付。
+# データベース設計	E
 https://gyazo.com/0b91c820f8ec12e6f1a602fcf2ac06fb
 
-# 画面遷移図	画面遷移図を添付。
+# 画面遷移図	
 
 # 開発環境	
 Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code
 
 # ローカルでの動作方法
-
 
 # 工夫したポイント
 制作背景
